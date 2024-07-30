@@ -1,0 +1,17 @@
+{
+  "name": "@0x0c/rcon",
+  "version": "1.0.0",
+  "description": "Simple queued RCON client with support for multi-packeted responses.",
+  "author": "Ilya G. <igorbachevsky@gmail.com>",
+  "homepage": "https://github.com/keyCat/node-rcon",
+  "license": "ISC",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "20.9.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.4.5"
+  }
+}
